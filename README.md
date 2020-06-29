@@ -149,3 +149,5 @@ Table of priorities
 ## Contributing
 
 Feel free to create `Pull Requests` to test the CI Feature.
+
+Test CI
